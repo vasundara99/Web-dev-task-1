@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img-tag {
+    margin-left: 1395px;
+}
+.img-tager {
+    margin-right: 1px;
+}
+.companyname {
+    text-align: center;
+    font-family: "Gloock", serif;
+    margin: 20px 560px;
+    padding: 20px;
+    background-color: rgb(250, 130, 86);
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+.ptag {
+    text-align: center;
+    font-family: "Sansita", sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 40px;
+    margin: 40px 25px;
+    padding: 30px 250px;
+    justify-content: space-between;
+    color: rgb(33, 33, 33);
+}
+hr.new1 {
+    border-top: 4px dashed  rgb(250, 130, 86);
+    margin: 50px 390px;
+}
+.meet {
+    text-align: center;
+    font-size: 45px;
+    color: rgb(60, 63, 153);
+    margin-bottom: 40px;
+    font-family: "Sansita", sans-serif;
+    
+
+}
+.listheading {
+    text-align: center;
+    font-family: "Gloock", serif;
+    margin: 20px 560px 50px;
+    padding: 15px;
+    background-color:  rgb(250, 130, 86);
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 400px;
+}
+.lmnames {
+    font-family: "Sansita", sans-serif;
+    text-align: center;
+    display: flex;
+
+}
+.personimg {
+    width: 200px;
+    height: 200px;
+}
+.image-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 300px;
+}
+.ceoaling {
+    margin: 0px 220px;
+}
+.fstrow
+{
+  margin: 0px 0px;
+}
+.secrow
+{
+  margin: 0px 70px;
+}
